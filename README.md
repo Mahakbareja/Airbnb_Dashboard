@@ -166,7 +166,7 @@ Developed an interactive **Power BI dashboard** that transforms raw Airbnb data 
 ![Executive Overview](Snapshot_of_Airbnb_Overview.png)
 
 ### Market Share Dashboard
-![Market Share](OverallReviews.png)
+![Market Share](Overall_Reviews.png)
 
 ### Ratings Dashboard
 ![Ratings Dashboard](Detailed_Reviews.png)

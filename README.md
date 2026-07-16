@@ -151,4 +151,3 @@ https://github.com/Mahakbareja/Airbnb_Dashboard/blob/main/Snapshot_of_Airbnb_Ove
 https://github.com/Mahakbareja/Airbnb_Dashboard/blob/main/Overall%20Reviews.png
 https://github.com/Mahakbareja/Airbnb_Dashboard/blob/main/Overall%20Reviews.png
 https://github.com/Mahakbareja/Airbnb_Dashboard/blob/main/Ratings.png
-https://github.com/Mahakbareja/Airbnb_Dashboard/blob/main/Snapshot_of_Airbnb_Overview.png

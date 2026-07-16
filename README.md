@@ -45,7 +45,7 @@ Developed an interactive **Power BI dashboard** that transforms raw Airbnb data 
 
 ## 📂 Data Source
 
-- Airbnb Open Dataset
+- Maven Analytics
 - Data Period: **2008–2021**
 - 10 Global Cities:
   - Paris

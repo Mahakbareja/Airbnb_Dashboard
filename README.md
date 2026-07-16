@@ -1,153 +1,172 @@
 # Airbnb_Dashboard
-🏡 Project Title
-Airbnb Performance Dashboard | Power BI End-to-End Data Analytics Project
+# 🏡 Airbnb Performance Dashboard | Power BI
 
+## 📌 Project Overview
 
-📌 Short Description / Purpose
-An interactive Power BI dashboard built to analyze Airbnb listing performance across multiple global cities. The dashboard provides insights into market share, listing growth, customer reviews, pricing, ratings, seasonality, and host trust indicators, enabling stakeholders to understand business performance and market trends from 2008–2021.
+An interactive **Power BI dashboard** built to analyze Airbnb listing performance across multiple global cities. The dashboard uncovers insights into market share, pricing, customer ratings, reviews, seasonality, host trust, and listing growth from **2008–2021**, helping stakeholders make data-driven business decisions.
 
+---
 
-🛠️ Tech Stack
-Power BI Desktop
-Power Query
-DAX (Data Analysis Expressions)
-Data Modeling
-Bookmarks & Navigation
-Drill-through
-Conditional Formatting
-Custom Tooltips
-Interactive Slicers
-Excel / CSV Dataset
+## 🎯 Business Problem
 
+Airbnb operates across thousands of listings and multiple cities, making it challenging for stakeholders to monitor business performance and identify growth opportunities.
 
-📂 Data Source
-Source: Airbnb Open Dataset (Maven Analytics)
-Data Period: 2008–2021
-Cities Covered: 10 Major Global Cities
-Paris
-New York
-Sydney
-Rome
-Rio de Janeiro
-Istanbul
-Mexico City
-Bangkok
-Cape Town
-Hong Kong
+The key business challenges include:
 
+- Comparing market performance across different cities.
+- Understanding pricing trends for various room types.
+- Tracking listing growth over time.
+- Measuring customer satisfaction using ratings and reviews.
+- Identifying seasonal demand patterns.
+- Evaluating host trust through identity verification and profile completeness.
+- Understanding the impact of external events such as COVID-19 on Airbnb listings.
 
-✨ Features & Highlights
-📊 Executive Overview
-KPI Cards for Listings, Cities, Hosts, Property Types, and Reviews
-Interactive navigation using bookmarks
-Clean Airbnb-inspired dashboard design
+---
 
-📈 Market Share Analysis
-Pareto (80/20) analysis of listings by city
-Superhost vs Non-Superhost comparison
-Cumulative market share visualization
+## 💡 Solution
 
-⭐ Ratings Analysis
-Overall city rating comparison
-Detailed ratings for:
-Accuracy
-Cleanliness
-Communication
-Location
-Value
-Heatmap with conditional formatting
+Developed an interactive **Power BI dashboard** that transforms raw Airbnb data into meaningful business insights through interactive visualizations, KPI cards, drill-down analysis, and bookmark-based navigation.
 
-💰 Pricing Insights
-Average price comparison across room types
-Hotel Room vs Entire Place vs Shared Room vs Private Room
+---
 
-📅 Listings Lifecycle Analysis
-Growth trend from 2008–2021
-Business lifecycle visualization:
-Introduction
-Growth
-Maturity
-Decline
-Reinvention
-COVID-19 Impact
-Key event annotations highlighting major milestones
+## 🛠️ Tech Stack
 
-📝 Review Analysis
-Review frequency distribution
-Customer engagement insights
-Detection of review anomalies
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Bookmarks
+- Drill-through
+- Conditional Formatting
+- Interactive Slicers
+- Excel / CSV Dataset
 
-🌍 Seasonality Analysis
-Monthly review trends across cities
-Peak tourism seasons
-Holiday impact on booking activity
+---
 
-🛡️ Host Trust Analysis
-Identity verification status
-Profile picture availability
-Trust indicator comparison
-Verified vs Non-verified host analysis
+## 📂 Data Source
 
-🎯 Interactive Features
-Bookmark-based page navigation
-Drill-down analysis
+- Airbnb Open Dataset
+- Data Period: **2008–2021**
+- 10 Global Cities:
+  - Paris
+  - New York
+  - Sydney
+  - Rome
+  - Rio de Janeiro
+  - Istanbul
+  - Mexico City
+  - Bangkok
+  - Cape Town
+  - Hong Kong
 
-📌 Business Problem
-Airbnb operates across thousands of cities with millions of listings, making it difficult to quickly understand market performance, pricing strategies, customer satisfaction, and listing trends. Business stakeholders need a centralized view to identify which cities drive the highest growth, how room types perform, what factors influence customer ratings, and how external events such as COVID-19 impact the platform.
-Without an interactive analytics solution, decision-makers face challenges in:
-Monitoring listing growth across different cities over time.
-Comparing market share and identifying top-performing locations.
-Understanding pricing differences across room types.
-Evaluating customer satisfaction through ratings and reviews.
-Identifying seasonal booking patterns and review trends.
-Assessing host trust indicators such as identity verification and profile completeness.
-Making data-driven decisions to optimize platform growth and improve user experience.
+---
 
-🎯 Solution
-Developed an interactive Power BI Performance Dashboard that consolidates Airbnb listing data into a single analytical platform. The dashboard enables users to explore KPIs, market trends, pricing, ratings, seasonality, reviews, and host trust metrics through dynamic visualizations, drill-down capabilities, and bookmark-based navigation, helping stakeholders make informed business decisions quickly and effectively
+## ✨ Dashboard Features
 
-📈 Key Insights
-Paris, New York, and Sydney contribute nearly half of all Airbnb listings.
-Entire Place is the most popular accommodation type.
-Paris records the highest listings and review volume.
-Listings experienced rapid growth until 2015 before slowing due to regulatory changes.
-COVID-19 caused a significant decline in new listings.
-More than two-thirds of hosts are identity verified, indicating a trustworthy platform.
+### 📊 Executive Dashboard
+- KPI Cards
+- Listings Overview
+- Hosts Analysis
+- Property Types
+- Reviews Summary
 
-📁 Dashboard Pages
-Executive Overview
-Market Share by City
-Ratings Analysis
-Review & Seasonality Analysis
+### 📈 Market Share Analysis
+- Pareto Analysis (80/20 Rule)
+- Superhost vs Non-Superhost Comparison
+- Cumulative Market Share
 
-🎯 Skills Demonstrated
-Data Cleaning
-Data Transformation
-Data Modeling
-DAX Calculations
-Business Intelligence
-Dashboard Design
-Data Storytelling
-KPI Development
-UX/UI Design in Power BI
-Business Insights Generation
+### ⭐ Ratings Dashboard
+- Overall Ratings
+- Detailed Ratings
+- Heatmap Visualization
+- Accuracy
+- Cleanliness
+- Communication
+- Location
+- Value
 
-📸 Dashboard Preview
-Include screenshots like:
-Executive Dashboard
-Market Share Dashboard
-Ratings Dashboard
-Reviews Dashboard
+### 💰 Pricing Analysis
+- Average Price by Room Type
+- Hotel Room
+- Entire Place
+- Private Room
+- Shared Room
 
-🚀 Project Outcome
-This dashboard transforms raw Airbnb data into actionable business insights through interactive visualizations and storytelling. It helps stakeholders identify market trends, pricing strategies, customer satisfaction levels, and the long-term evolution of Airbnb listings, supporting data-driven decision-making.
-Dynamic filters and slicers
-Interactive visuals
-Responsive report layout
+### 📅 Listings Lifecycle Analysis
+- Introduction
+- Growth
+- Maturity
+- Decline
+- Reinvention
+- COVID-19 Impact
 
-Screenshots
-This is how the dashboard looks like.
+### 📝 Reviews Dashboard
+- Review Frequency
+- Customer Engagement
+- Review Distribution
+- Review Outlier Detection
+
+### 🌍 Seasonality Analysis
+- Monthly Review Trends
+- Peak Tourism Months
+- City-wise Seasonal Comparison
+
+### 🛡️ Host Trust Analysis
+- Identity Verification
+- Profile Picture Analysis
+- Trust Indicators
+
+### 🎛️ Interactive Features
+- Bookmarks
+- Drill-down
+- Dynamic Filters
+- Interactive Navigation
+- Responsive Layout
+
+---
+
+## 📊 Key Insights
+
+- Paris, New York, and Sydney account for nearly half of all Airbnb listings.
+- Paris records the highest number of listings and customer reviews.
+- Entire Place is the most preferred accommodation type.
+- Listings experienced rapid growth until 2015 before slowing due to regulations.
+- COVID-19 caused a sharp decline in new listings.
+- More than two-thirds of hosts are identity verified, indicating a high level of trust.
+
+---
+
+## 📁 Dashboard Pages
+
+- Executive Overview
+- Market Share Analysis
+- Ratings Analysis
+- Reviews & Trust Analysis
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX
+- KPI Design
+- Dashboard Development
+- Business Intelligence
+- Data Storytelling
+- Interactive Report Design
+- Business Insights
+
+---
+
+## 📸 Dashboard Preview
+
 https://github.com/Mahakbareja/Airbnb_Dashboard/blob/main/Snapshot_of_Airbnb_Overview.png
 https://github.com/Mahakbareja/Airbnb_Dashboard/blob/main/Overall%20Reviews.png
 https://github.com/Mahakbareja/Airbnb_Dashboard/blob/main/Overall%20Reviews.png
 https://github.com/Mahakbareja/Airbnb_Dashboard/blob/main/Ratings.png
+
+## 🚀 Project Outcome
+
+This project demonstrates how business intelligence tools like **Power BI** can convert raw Airbnb data into actionable insights, enabling stakeholders to monitor performance, understand customer behavior, identify market trends, and make informed strategic decisions.

@@ -170,3 +170,17 @@ https://github.com/Mahakbareja/Airbnb_Dashboard/blob/main/Ratings.png
 ## 🚀 Project Outcome
 
 This project demonstrates how business intelligence tools like **Power BI** can convert raw Airbnb data into actionable insights, enabling stakeholders to monitor performance, understand customer behavior, identify market trends, and make informed strategic decisions.
+
+## 📸 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Snapshot_of_Airbnb_Overview.png)
+
+### Market Share Dashboard
+![Market Share](Overall Reviews.png)
+
+### Ratings Dashboard
+![Ratings Dashboard](images/ratings.png)
+
+### Reviews Dashboard
+![Reviews Dashboard](images/reviews.png)

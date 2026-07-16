@@ -149,6 +149,6 @@ Screenshots
 This is how the dashboard looks like.
 https://github.com/Mahakbareja/Airbnb_Dashboard/blob/main/Snapshot_of_Airbnb_Overview.png
 https://github.com/Mahakbareja/Airbnb_Dashboard/blob/main/Overall%20Reviews.png
-
+https://github.com/Mahakbareja/Airbnb_Dashboard/blob/main/Overall%20Reviews.png
 
 
